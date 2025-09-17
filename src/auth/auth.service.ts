@@ -44,6 +44,6 @@ import { UserToken } from './models/UserToken';
         }
       }
     }
-    throw new Error('Endereço de meial ou senha estão incorretos!')
+    throw new Error('Endereço de email ou senha estão incorretos!')
   }   
 }
